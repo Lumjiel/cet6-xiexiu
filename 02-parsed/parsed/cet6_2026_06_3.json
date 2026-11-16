@@ -1,0 +1,201 @@
+{
+ "set": "cet6_2026_06_3",
+ "answers": {
+  "26": "B",
+  "27": "A",
+  "28": "N",
+  "29": "D",
+  "30": "E",
+  "31": "M",
+  "32": "O",
+  "33": "I",
+  "34": "C",
+  "35": "J",
+  "36": "E",
+  "37": "A",
+  "38": "G",
+  "39": "C",
+  "40": "P",
+  "41": "I",
+  "42": "B",
+  "43": "N",
+  "44": "D",
+  "45": "O",
+  "46": "B",
+  "47": "C",
+  "48": "D",
+  "49": "C",
+  "50": "B",
+  "51": "A",
+  "52": "A",
+  "53": "D",
+  "54": "D",
+  "55": "A"
+ },
+ "section_a": {
+  "bank": {
+   "A": "ascertain",
+   "B": "buffer",
+   "C": "correlated",
+   "D": "crave",
+   "E": "demographics",
+   "F": "entail",
+   "G": "legitimately",
+   "H": "mandated",
+   "I": "potential",
+   "J": "proximity",
+   "K": "rigid",
+   "L": "statistics",
+   "M": "substantially",
+   "N": "trait",
+   "O": "underlie"
+  }
+ },
+ "section_b": {
+  "statements": [
+   {
+    "num": 36,
+    "statement": "1. 36. Most parents realise the importance of teaching their children how to handle money, but many of them actually don't do much in this respect."
+   },
+   {
+    "num": 37,
+    "statement": "2. 37. People differ substantially in their way of managing finance."
+   },
+   {
+    "num": 38,
+    "statement": "3. 38. Parents can easily teach children how to spend responsibly by helping them draw lessons from bad decisions on spending."
+   },
+   {
+    "num": 39,
+    "statement": "4. 39. Many young British people badly lack money management skills and they don't learn them early enough."
+   },
+   {
+    "num": 40,
+    "statement": "5. 40. The majority of adults believe that their spending habits have been influenced the most by their parents."
+   },
+   {
+    "num": 41,
+    "statement": "6. 41. There are apps designed specifically for children under 7 to help them track pocket money spending."
+   },
+   {
+    "num": 42,
+    "statement": "7. 42. According to experts, the age a person learns to manage finance responsibly determines the way they handle money thereafter."
+   },
+   {
+    "num": 43,
+    "statement": "8. 43. Most teachers are of the opinion that children today need to make financial decisions at a younger age."
+   },
+   {
+    "num": 44,
+    "statement": "9. 44. Parents serve as effective role models in shaping children's money management habits."
+   },
+   {
+    "num": 45,
+    "statement": "45. According to one study, about 30% of parents allow their children to participate in discussions on their family finances."
+   }
+  ],
+  "paragraph_count": null
+ },
+ "section_c": [
+  {
+   "num": 46,
+   "stem": "Why have three artists brought a lawsuit against Stability AI, DeviantArt, and Midjourney?",
+   "options": {
+    "A": "They claim that the use of the Stable Diffusion tool is a violation of law.",
+    "B": "They claim these companies infringed their intellectual property rights.",
+    "C": "They want to stop the use of all AI tools in the creation of art works.",
+    "D": "They want to prevent artists from being compelled to rely on AI tools."
+   }
+  },
+  {
+   "num": 47,
+   "stem": "What will happen if Stable Diffusion and similar products are allowed to continue to operate as they do now, according to the law firm?",
+   "options": {
+    "A": "Intellectual property laws will be hard to enforce.",
+    "B": "Fewer artists will invest talent in artistic creation.",
+    "C": "Artists will lose their means of subsistence.",
+    "D": "Copied works will flood the art market."
+   }
+  },
+  {
+   "num": 48,
+   "stem": "What makes artists furious aside from copyright infringement?",
+   "options": {
+    "A": "Art works produced with AI tools are not banned from art-sharing platforms.",
+    "B": "Text-to-image generators have won such great popularity in the past year.",
+    "C": "Their distorted signatures appear more and more frequently in AI art.",
+    "D": "AI tools can bypass the considerable labor involved in creating art works."
+   }
+  },
+  {
+   "num": 49,
+   "stem": "What do we learn from the passage about many AI enthusiasts?",
+   "options": {
+    "A": "They look forward to AI tools creating good-quality art works.",
+    "B": "They claim artists can use copyrighted materials just as teachers do.",
+    "C": "They support AI's limited use of copyrighted images without permission.",
+    "D": "They wish the \"fair use\" clause would be applicable to all works in a dataset."
+   }
+  },
+  {
+   "num": 50,
+   "stem": "What does the author think of the \"fair use\" clause in copyright law?",
+   "options": {
+    "A": "It may determine the final verdict of the case.",
+    "B": "It may not apply to the present legal case.",
+    "C": "It does not cover the works of all artists.",
+    "D": "It is subject to different interpretations. Passage Two On a warm October morning, Daniel Agok woke up to another disappointing day at his school in Wanyjok, South Sudan. The classes he had planned teaching computer skills to aspiring young professionals were canceled, due to an unreliable diesel generator and the absence of a municipal power grid in his area. Now, he would be losing frustrated customers as well as income. Agok is just one of the hundreds of millions of people in sub-Saharan Africa, many of whom are business owners, who still do not have dependable electricity. This inequitable access to energy continues to put their livelihood and future at risk. The current system keeps a lid on the economic talents of people like Agok and his students. We must instead unleash their abilities and let Africa reach its true economic potential. That means wiring Africa with clean, dependable energy. Historically, national governments on the continent have led electrification efforts, but fewer than half of the people surveyed say that the national grid is providing a reliable supply of electricity. This has led to expensive and harmful temporary \"solutions\". In Nigeria alone, experts estimate people spend $13 billion every year on fuel for toxic, polluting generators. That number will only grow as the continent's population hits 2.5 billion people by 2050. Deploying modern grid infrastructure with speed and at scale is essential to replacing these temporary solutions with reliable and affordable alternatives. The rapidly growing private power sector in Africa holds the key to achieving the speed and scale necessary to close the continent's energy access gap. Private companies today are building world-class infrastructure and driving forward economic growth with sustainable business models. In fact, many governments agree and have begun to embrace the private sector as partners in providing reliable power at scale. In South Africa, President Cyril Ramaphosa has streamlined licensing requirements and enlisted the private sector to play a key role. South Africa is just one example. Across the continent, the private sector has delivered power faster and more reliably, and governments are increasingly turning to private partners. With the right funding and structure in place, the private sector will come together to provide this essential service. After all, electrifying sub-Saharan Africa is a $350 billion opportunity. Today, Daniel Agok is steadily growing his business in South Sudan. His town of Wanyjok was electrified by a private company, providing clean, reliable, and affordable power to his business and his neighbors. Agok now operates his growing computer skills training business smoothly. His classes are no longer affected by the smell and the constant noise of the diesel generator, and he saves money with more affordable power. His students are developing hardware and software skills."
+   }
+  },
+  {
+   "num": 51,
+   "stem": "What do we learn about the current electric supply system in Africa?",
+   "options": {
+    "A": "It curbs the economic development of the continent.",
+    "B": "It mainly depends on the polluting diesel generators.",
+    "C": "It is the primary cause of inequitable distribution of wealth.",
+    "D": "It deprives many Africans of the opportunity to use computers."
+   }
+  },
+  {
+   "num": 52,
+   "stem": "What do we learn from the passage about Africa's past electrification efforts?",
+   "options": {
+    "A": "They have failed to meet most Africans' need of a reliable power supply.",
+    "B": "They have failed to build a national grid to provide electric power.",
+    "C": "They have unleashed the true economic potential of the continent.",
+    "D": "They have aimed at wiring Africa with clean, dependable energy."
+   }
+  },
+  {
+   "num": 53,
+   "stem": "What is essential to tackling the power supply shortage in Africa?",
+   "options": {
+    "A": "Replacing temporary solutions with long-term strategies.",
+    "B": "Accelerating economic growth with sustainable policies.",
+    "C": "Restructuring national power generation companies.",
+    "D": "Putting in place a large-scale modern power grid speedily."
+   }
+  },
+  {
+   "num": 54,
+   "stem": "What are many governments in Africa doing to solve the electricity supply problem?",
+   "options": {
+    "A": "Focusing on building world-class infrastructures.",
+    "B": "Relying on the private sector for scale economy.",
+    "C": "Launching sustainable business models.",
+    "D": "Cooperating with private companies."
+   }
+  },
+  {
+   "num": 55,
+   "stem": "Why will private companies be motivated to join the effort of electrifying sub- Saharan Africa?",
+   "options": {
+    "A": "There is big money to be made.",
+    "B": "They have enough funding in place.",
+    "C": "South Africa has set a successful example.",
+    "D": "Governments are turning to them for help. Part IV Translation (30 minutes) Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2. 近年来，中国无人机 (drone) 产业蓬勃发展，出口量跃升为全球第一。中国的无 人机以出色的稳定性、高清 (high-definition) 拍摄能力和便捷的操作，受到全球 消费者的喜爱，在民用领域得到广泛应用。无人机已被国家纳入战略性新兴产 业，逐步成为能满足多种场景需求的智能助手。在农村，无人机可精准识别农作 物病虫害，高效喷洒农药。在城市，无人机可快速运送生鲜食品。在不久的将 来，无人机能够在更多领域实现其独特价值，为经济社会发展注入新动能。 答案速查（第3套） Part III Reading Comprehension"
+   }
+  }
+ ]
+}

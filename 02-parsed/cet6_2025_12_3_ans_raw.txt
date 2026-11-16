@@ -1,0 +1,193 @@
+2025年12月六级真题（第三套）
+答案解析-由学姐制作-仅供参考
+Part I Writing
+题目回顾：
+It is believed that teachers can exert a profound influence on their students'
+academic pursuit and personal development.
+写作思路：
+开篇：直接抄写给定句子，点明教师在学生学业和人格发展中的深远影响。
+主体：可从榜样作用（言传身教）、学术指导（知识传授、方法引导）、品
+德培养（价值观塑造、责任感）、人生引路（职业规划、心理支持）等角度
+展开，结合具体例子或个人经历。
+结尾：总结教师的影响，呼吁学生珍惜师生关系，同时也强调教师自身应不
+断提升素养。
+参考范文：
+It is believed that teachers can exert a profound influence on their students'
+academic pursuit and personal development. Indeed, a great teacher does
+more than transmit knowledge; they inspire curiosity, foster critical thinking,
+and shape character. For instance, my high school English teacher not only
+improved our language skills but also encouraged us to read widely and
+think independently, which has benefited me throughout my college
+studies. Moreover, teachers often serve as role models, demonstrating
+integrity, diligence, and compassion. When I faced difficulties in choosing a
+career path, my mentor listened patiently and offered valuable advice,
+helping me find direction. Additionally, teachers create a supportive
+environment where students feel safe to express themselves and learn from
+mistakes. This nurturing atmosphere is crucial for building self-confidence
+
+and resilience. In conclusion, the influence of teachers extends far beyond
+the classroom. Their guidance leaves a lasting imprint on students' lives,
+shaping not only their academic achievements but also their values and
+aspirations. Therefore, both students and society should recognize and
+appreciate the pivotal role teachers play.
+Part II Listening Comprehension
+重要说明：2025年12月英语六级只考两套听力，本套听力内容与第一套或第二套相同，仅选
+项顺序不同，故不再重复列出具体题目与答案。请参考第一套或第二套的听力答案。
+Part III Reading Comprehension
+Section A Banked Cloze
+26
+N
+27
+G
+28
+F
+29
+J
+30
+H
+31
+M
+32
+E
+33
+C
+34
+D
+35
+B
+26. N — 句意：“口音不是方言的同义词。” synonym 表示“同义词”，符合上下
+文。
+27. G — 句意：“外行人认为每个国家只有一种标准的说话方式。” laymen 表示“外
+行、普通人”。
+28. F — 句意：“这种被认为是标准的方式固有地是最好的说话方式。” inherently
+表示“固有地”。
+29. J — 句意：“标准口音的概念最好理解为一种理想，而不是现实。” reality 与
+“ideal”形成对比。
+30. H — 句意：“历史上曾经有多个所谓的标准。” multiple 表示“多个”。
+31. M — 句意：“广播机构遍及整个范围。” spectrum 表示“范围、谱”，指各种广
+播机构。
+32. E — 句意：“标准口音的观念是有影响力的。” influential 表示“有影响力的”。
+33. C — 句意：“偏离当前标准的口音被认为不太合适。” deviate from 表示“偏
+离”。
+34. D — 句意：“在美国南部口音在领域如政府、法律和服务行业中更被接受。”
+domains 表示“领域”。
+
+35. B — 句意：“非标准口音的可接受性可能与阶级和文化的差异相关。” correlate
+with 表示“与……相关”。
+Section B Long Reading Matching
+36
+Q
+37
+I
+38
+A
+39
+J
+40
+R
+41
+L
+42
+F
+43
+K
+44
+B
+45
+N
+36. Q — Q段：“When a flashing yellow arrow is shown, you can take the turn
+after yielding to pedestrians and traffic.” 对应题干。
+37. I — I段：“in San Francisco the first red and green electric light system that
+could be operated automatically was introduced in 1917.” 对应题干“originated in
+an American city”。
+38. A — A段：“Ask a resident of the city and they are likely to agree that saving
+time on the road is well worth it.” 对应题干。
+39. J — J段：“Ford made cars affordable for more common people…by creating
+larger scale factory production.” 对应题干“Mass production of cars”。
+40. R — R段：“Traffic light meaning is fairly consistent across the board with
+various deviations.” 对应题干“almost the same everywhere”。
+41. L — L段：“Crosswalks weren't even introduced until 1951.” 对应题干“mid-
+twentieth century”。
+42. F — F段：“As traffic and cities grew, so did the race to solve growing traffic
+problems.” 对应题干。
+43. K — K段：“The introduction of the cautionary yellow light helped increase
+driver safety, decreasing accidents.” 对应题干。
+44. B — B段：“It had been adapted from the railroad signal system…in 1868.” 对
+应题干“railroad served as the basis”。
+45. N — N段：“it's still best to check both ways for oncoming traffic that may
+not be paying attention or is running the light.” 对应题干。
+Section C Reading Passages
+Passage One — Mindfulness
+46
+B
+47
+B
+48
+A
+49
+C
+50
+C
+
+46. B — 第二段：正念是“observe experience without being caught up in it”，第
+三段提到“without reacting…with likes and dislikes or judgments”，即专注于当下
+而不做评判。
+47. B — 第四段：Odell认为“human attention has been transformed into a
+commodity that big corporations buy and sell”，即人们的注意力被转化为可买卖
+的商品。
+48. A — 第五段：“The devices most people use are a perpetual diversion from
+the present moment.” 即不断分散用户对当下的注意力。
+49. C — 第六段：“some scholars assert that…practice it for others. It can help us
+build stronger, healthier relationships.” 即有助于建立更好的人际关系。
+50. C — 第八段：“listening to them with complete attention without judgment”
+即做专注的倾听者，避免评判。
+Passage Two — Captcha and Technology
+51
+D
+52
+C
+53
+B
+54
+A
+55
+D
+51. D — 第一段末：“Like a lamb, I compiled” 即顺从地完成了，submissively 与
+“like a lamb” 呼应。
+52. C — 第三段：验证码被称为“自动化图灵测试”，图灵测试本是用来判断机器是
+否像人，而现在却是机器用测试来验证人类，这是讽刺之处。
+53. B — 第四段：“Have we become so subtly conditioned…that we don't see
+what's been happening to us?” 用煮青蛙比喻人类未意识到智能科技带来的潜在危
+险。
+54. A — 第五段提到两位学者认为答案是肯定的，第六段作者举例说明“a
+significant proportion of digital tech now sees (and uses) humans as means to
+ends that are not ours”，即大部分数字技术利用人类来达到其自身目的。
+55. D — 末句“Are we smart enough to jump out before it's too late?”以及“You
+don't even have to Google it to know the answer”暗示我们可能无法及时醒悟数字
+技术带来的危险。
+Part IV Translation
+题目原文：
+节俭 (frugality) 是中华民族的传统美德。在中国古代，生产力低下，先人们深知劳
+动成果来之不易，因而秉持节俭的理念。到了物质极大丰富的今天，中国人民依
+
+然坚持节俭的生活方式，体现了理性消费的生活理念和对劳动的尊重。近年来，
+中国政府持续加强节约型社会的建设，倡导“光盘行动”，减少食物浪费，提倡简约
+低碳的生活方式，推进资源循环利用，反对过度消费。节约型社会的建设有力地
+推动了中国经济的高质量发展。
+参考译文：
+Frugality is a traditional virtue of the Chinese nation. In ancient China, when
+productivity was low, our ancestors were well aware that the fruits of labor were
+hard-won, and thus they upheld the principle of thrift. Even in today's world of
+material abundance, the Chinese people still adhere to a frugal lifestyle, reflecting
+a philosophy of rational consumption and respect for labor. In recent years, the
+Chinese government has continuously intensified efforts to build a conservation-
+minded society, advocating the "Clean Plate Campaign" to reduce food waste,
+promoting a simple and low-carbon lifestyle, advancing the recycling of
+resources, and opposing excessive consumption. The construction of a
+conservation-oriented society has effectively propelled the high-quality
+development of China's economy.
+翻译要点： 节俭 “frugality”；传统美德 “traditional virtue”；来之不易 “hard-
+won”；秉持 “uphold”；理性消费 “rational consumption”；光盘行动 “Clean Plate
+Campaign”；简约低碳 “simple and low-carbon”；资源循环利用 “recycling of
+resources”；高质量发展 “high-quality development”。
+全真试题整理 · 答案解析 · 仅供学习参考

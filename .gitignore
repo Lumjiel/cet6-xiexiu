@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Logs & temp
+*.log
+raw_page.html
+nju_index.html
+api1.json
+lazy_*.html
+
+# OS
+.DS_Store
+Thumbs.db

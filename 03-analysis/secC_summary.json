@@ -1,0 +1,200 @@
+{
+  "n_questions": 120,
+  "n_located": 101,
+  "n_failed": [],
+  "sent_counts_per_passage": [
+    {
+      "set": "cet6_2024_12_1",
+      "passage": 1,
+      "n": 26
+    },
+    {
+      "set": "cet6_2024_12_1",
+      "passage": 2,
+      "n": 22
+    },
+    {
+      "set": "cet6_2024_12_2",
+      "passage": 1,
+      "n": 26
+    },
+    {
+      "set": "cet6_2024_12_2",
+      "passage": 2,
+      "n": 25
+    },
+    {
+      "set": "cet6_2024_12_3",
+      "passage": 1,
+      "n": 23
+    },
+    {
+      "set": "cet6_2024_12_3",
+      "passage": 2,
+      "n": 20
+    },
+    {
+      "set": "cet6_2025_06_1",
+      "passage": 1,
+      "n": 25
+    },
+    {
+      "set": "cet6_2025_06_1",
+      "passage": 2,
+      "n": 18
+    },
+    {
+      "set": "cet6_2025_06_2",
+      "passage": 1,
+      "n": 19
+    },
+    {
+      "set": "cet6_2025_06_2",
+      "passage": 2,
+      "n": 23
+    },
+    {
+      "set": "cet6_2025_06_3",
+      "passage": 1,
+      "n": 19
+    },
+    {
+      "set": "cet6_2025_06_3",
+      "passage": 2,
+      "n": 19
+    },
+    {
+      "set": "cet6_2025_12_1",
+      "passage": 1,
+      "n": 26
+    },
+    {
+      "set": "cet6_2025_12_1",
+      "passage": 2,
+      "n": 23
+    },
+    {
+      "set": "cet6_2025_12_2",
+      "passage": 1,
+      "n": 24
+    },
+    {
+      "set": "cet6_2025_12_2",
+      "passage": 2,
+      "n": 19
+    },
+    {
+      "set": "cet6_2025_12_3",
+      "passage": 1,
+      "n": 19
+    },
+    {
+      "set": "cet6_2025_12_3",
+      "passage": 2,
+      "n": 26
+    },
+    {
+      "set": "cet6_2026_06_1",
+      "passage": 1,
+      "n": 21
+    },
+    {
+      "set": "cet6_2026_06_1",
+      "passage": 2,
+      "n": 20
+    },
+    {
+      "set": "cet6_2026_06_2",
+      "passage": 1,
+      "n": 22
+    },
+    {
+      "set": "cet6_2026_06_2",
+      "passage": 2,
+      "n": 22
+    },
+    {
+      "set": "cet6_2026_06_3",
+      "passage": 1,
+      "n": 12
+    },
+    {
+      "set": "cet6_2026_06_3",
+      "passage": 2,
+      "n": 26
+    }
+  ],
+  "source_pct": {
+    "mean": 50.6,
+    "median": 48.0,
+    "min": 0.0,
+    "max": 100.0,
+    "q1": 20.0,
+    "q3": 81.0,
+    "buckets_20": {
+      "0-20": 25,
+      "20-40": 13,
+      "40-60": 21,
+      "60-80": 16,
+      "80-100": 26
+    }
+  },
+  "coverage": {
+    "correct_overlap_mean": 37.8,
+    "wrong_avg_overlap_mean": 15.4,
+    "wrong_max_overlap_mean": 27.2,
+    "wrong_maxfull_mean": 44.6,
+    "correct_new_word_mean": 62.2,
+    "correct_new_word_full_mean": 52.9
+  },
+  "order": {
+    "n_passages": 24,
+    "strictly_increasing": 7,
+    "adjacent_increasing_mean": 3.0,
+    "adjacent_increasing_dist": {
+      "4": 7,
+      "2": 6,
+      "3": 11
+    },
+    "kendall_tau_mean": 0.604,
+    "tau_dist": {
+      "1.0": 7,
+      "-0.1": 1,
+      "0.8": 2,
+      "0.9": 3,
+      "0.1": 2,
+      "0.5": 2,
+      "0.2": 2,
+      "0.3": 2,
+      "0.7": 1,
+      "-0.2": 1,
+      "0.6": 1
+    }
+  },
+  "letter_dist": {
+    "A": 28,
+    "B": 33,
+    "C": 30,
+    "D": 29
+  },
+  "letter_by_position": {
+    "前(0-33%)": {
+      "D": 5,
+      "C": 13,
+      "A": 11,
+      "B": 8
+    },
+    "中(33-67%)": {
+      "B": 8,
+      "A": 5,
+      "D": 9,
+      "C": 7
+    },
+    "后(67-100%)": {
+      "C": 9,
+      "D": 8,
+      "B": 11,
+      "A": 7
+    }
+  }
+}

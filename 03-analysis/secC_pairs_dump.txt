@@ -1,0 +1,719 @@
+### cet6_2024_12_1 Q46 答案=B src=1/26 pct=4.0 cov=0.00
+[来源句] You stumble into a movie theatre that's showing the latest Hollywood horror film.
+[正确选项] extreme excitement
+[旧词] -
+[新词] excitement extreme
+
+### cet6_2024_12_1 Q47 答案=B src=12/26 pct=48.0 cov=0.40
+[来源句] My research suggests that we humans evolved to find pleasure in situations that allow us to experience negative emotions in a safe context.
+[正确选项] They find joy in going through simulated horrible experiences
+[旧词] experiences find
+[新词] horrible joy simulated
+
+### cet6_2024_12_1 Q48 答案=A src=16/26 pct=64.0 cov=0.50
+[来源句] This simulation gives the child crucial information about how to avoid becoming prey, and children tend to find that kind of activity deeply satisfying, presumably because it gives them a safe experience of a potentially catastrophic scenario.
+[正确选项] How to avoid falling prey to an attacker
+[旧词] avoid prey
+[新词] attacker falling
+
+### cet6_2024_12_1 Q49 答案=C src=19/26 pct=76.0 cov=0.50
+[来源句] We learn what it feels like to be truly afraid, and we learn how to handle negative emotion.
+[正确选项] It allows them to learn what fear feels like and how to tackle it
+[旧词] feels learn like
+[新词] allows fear tackle
+
+### cet6_2024_12_1 Q50 答案=D src=24/26 pct=96.0 cov=0.67
+[来源句] If you make it through the film in one piece, you'll probably experience a strong sense of mastery, a sense that you were able to make it through an appalling experience.
+[正确选项] A strong sense of being in control
+[旧词] sense strong
+[新词] control
+
+### cet6_2024_12_1 Q51 答案=D src=1/22 pct=4.8 cov=0.67
+[来源句] But in the digital arena, social media determines what is considered beautiful.
+[正确选项] It is defined by social media
+[旧词] media social
+[新词] defined
+
+### cet6_2024_12_1 Q52 答案=C src=3/22 pct=14.3 cov=0.62
+[来源句] In the physical world, the struggle goes against the underlying pressure exerted on women to conform to an unrealistic beauty ideal.
+[正确选项] A fight is going on to remove pressure on women to conform to an absurd beauty ideal
+[旧词] beauty conform ideal pressure women
+[新词] absurd fight remove
+
+### cet6_2024_12_1 Q53 答案=A src=10/22 pct=47.6 cov=0.60
+[来源句] Today, however, the Instagram face has become the new beauty ideal.
+[正确选项] It is now regarded as the new beauty ideal
+[旧词] beauty ideal new
+[新词] now regarded
+
+### cet6_2024_12_1 Q54 答案=C src=16/22 pct=76.2 cov=0.29
+[来源句] One of the significant consequences of obsessive filtering is the emerging tendency to treat oneself as an object to be observed and valued, in the same way another person observes and judges from the side.
+[正确选项] A tendency to regard one's body as an object of observation and judgment
+[旧词] object tendency
+[新词] body judgment observation one's regard
+
+### cet6_2024_12_1 Q55 答案=B src=21/22 pct=100.0 cov=0.25
+[来源句] The time spent on social media creates an urge to achieve an impossible beauty ideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.
+[正确选项] Psychological intervention should be introduced to alleviate it
+[旧词] intervention
+[新词] alleviate introduced psychological
+
+### cet6_2024_12_2 Q46 答案=A src=22/26 pct=88.0 cov=0.00
+[来源句] Will the longing for a simpler life become stronger, fueling a rural renaissance?
+[正确选项] They are becoming somewhat deserted
+[旧词] -
+[新词] becoming deserted somewhat
+
+### cet6_2024_12_2 Q47 答案=B src=25/26 pct=100.0 cov=0.50
+[来源句] We know that the world is going to see new cities emerging from the dust and current cities growing into megacities. but the future of the countryside is less clear.
+[正确选项] It is less energy-efficient compared to that in cities
+[旧词] cities less
+[新词] compared energy-efficient
+
+### cet6_2024_12_2 Q48 答案=D src=14/26 pct=56.0 cov=0.67
+[来源句] For those who believe in rural preservation, this is deplorable.
+[正确选项] It is detrimental to rural preservation
+[旧词] preservation rural
+[新词] detrimental
+
+### cet6_2024_12_2 Q49 答案=A src=5/26 pct=20.0 cov=0.33
+[来源句] So how can the countryside ensure its survival among these changes; or should it at all?
+[正确选项] It is destined to change gradually
+[旧词] change
+[新词] destined gradually
+
+### cet6_2024_12_2 Q50 答案=D src=25/26 pct=100.0 cov=0.33
+[来源句] We know that the world is going to see new cities emerging from the dust and current cities growing into megacities. but the future of the countryside is less clear.
+[正确选项] It is less easy to envisage
+[旧词] less
+[新词] easy envisage
+
+### cet6_2024_12_2 Q51 答案=A src=0/25 pct=0.0 cov=0.00
+[来源句] Statements, like "beauty is in the eye of the beholder ( )", are rarely questioned.
+[正确选项] It has hardly ever been disputed
+[旧词] -
+[新词] disputed hardly
+
+### cet6_2024_12_2 Q52 答案=C src=5/25 pct=20.8 cov=0.17
+[来源句] The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects.
+[正确选项] There is less consensus on objects shaped by human craft
+[旧词] objects
+[新词] consensus craft human less shaped
+
+### cet6_2024_12_2 Q53 答案=D src=11/25 pct=45.8 cov=0.40
+[来源句] Art and architecture, unlike natural spaces, do not have the same level of exposure.
+[正确选项] They come into people's view less often than natural spaces
+[旧词] natural spaces
+[新词] less people's view
+
+### cet6_2024_12_2 Q54 答案=B src=17/25 pct=70.8 cov=0.40
+[来源句] Nature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout the world.
+[正确选项] It displays aesthetic traits in a similar way the world over
+[旧词] aesthetic world
+[新词] displays similar traits
+
+### cet6_2024_12_2 Q55 答案=C src=16/25 pct=66.7 cov=0.33
+[来源句] I am not saying this would mean beauty is completely objective, just that there could possibly be general objective principles at work, i.e., beauty is not simply in the eye of the beholder.
+[正确选项] The way their creators apply the principle of beauty may not be pleasing to everybody
+[旧词] beauty principle
+[新词] apply creators everybody pleasing
+
+### cet6_2024_12_3 Q46 答案=B src=1/23 pct=4.5 cov=0.67
+[来源句] Left-brained people are supposedly logical and excel at language and math while right-brained people are more imaginative, emotionally intelligent and skilled with spatial reasoning.
+[正确选项] Determine whether one is left-brained or right-brained
+[旧词] left-brained right-brained
+[新词] determine
+
+### cet6_2024_12_3 Q47 答案=C src=7/23 pct=31.8 cov=0.75
+[来源句] The human brain is divided into two hemispheres, the left and right.
+[正确选项] How the two hemispheres of our brains cooperate
+[旧词] brains hemispheres two
+[新词] cooperate
+
+### cet6_2024_12_3 Q48 答案=A src=7/23 pct=31.8 cov=0.50
+[来源句] The human brain is divided into two hemispheres, the left and right.
+[正确选项] It contradicts the assumption that the two hemispheres of the brain are symmetrical
+[旧词] brain hemispheres two
+[新词] assumption contradicts symmetrical
+
+### cet6_2024_12_3 Q49 答案=A src=14/23 pct=63.6 cov=0.75
+[来源句] The idea that we have left-dominant people and right-dominant people, and that this is related to personality, is categorically false.
+[正确选项] There are left-dominant people and right-dominant people with different personalities
+[旧词] left-dominant personalities right-dominant
+[新词] different
+
+### cet6_2024_12_3 Q50 答案=D src=21/23 pct=95.5 cov=0.00
+[来源句] When you come up with an online quiz that tells us something about ourselves, we're drawn to that. It's irresistible.
+[正确选项] Question its reliability
+[旧词] -
+[新词] question reliability
+
+### cet6_2024_12_3 Q51 答案=D src=14/20 pct=73.7 cov=0.20
+[来源句] But the science teacher, he said, wouldn't have known about the confusion on her own.
+[正确选项] It is closely coordinated despite seeming confusion
+[旧词] confusion
+[新词] closely coordinated despite seeming
+
+### cet6_2024_12_3 Q52 答案=B src=1/20 pct=5.3 cov=0.00
+[来源句] There, an innovative teaching model has taken hold, and is spreading to other schools in the district and beyond.
+[正确选项] It could turn out to be a success
+[旧词] -
+[新词] success turn
+
+### cet6_2024_12_3 Q53 答案=C src=9/20 pct=47.4 cov=0.33
+[来源句] "Our profession is so slow to advance because we are working in isolation." Of course, overhauling teaching approaches can't fix all the frustrations teachers have, such as low pay, but early results from Mesa show team teaching may be helping to reverse low morale.
+[正确选项] Progress is slow due to lack of collaboration among teachers
+[旧词] slow teachers
+[新词] collaboration due lack progress
+
+### cet6_2024_12_3 Q54 答案=C src=9/20 pct=47.4 cov=0.38
+[来源句] "Our profession is so slow to advance because we are working in isolation." Of course, overhauling teaching approaches can't fix all the frustrations teachers have, such as low pay, but early results from Mesa show team teaching may be helping to reverse low morale.
+[正确选项] The new teaching model helps inform the teacher how their instruction is received
+[旧词] helps teacher teaching
+[新词] inform instruction model new received
+
+### cet6_2024_12_3 Q55 答案=D src=12/20 pct=63.2 cov=0.33
+[来源句] During one planning session, English teacher Jeff Hall shared a performance appraisal with a science teacher: Her recent lecture on something she called "the central dogma of biology" had bewildered him and their other teammates.
+[正确选项] How to assess each teacher's performance
+[旧词] performance
+[新词] assess teacher's
+
+### cet6_2025_06_1 Q46 答案=C src=4/25 pct=16.7 cov=0.57
+[来源句] His open letter stated that missing 10% of school days in a year for any reason - excused or unexcused - is a primary cause of low academic achievement.
+[正确选项] Low academic achievement is mainly attributed to school absences
+[旧词] academic achievement low school
+[新词] absences attributed mainly
+
+### cet6_2025_06_1 Q47 答案=A src=10/25 pct=41.7 cov=0.71
+[来源句] We find that absences .excused by a parent do little to harm children's learning.
+[正确选项] Excused school absences have little impact on children's learning
+[旧词] absences children's excused learning little
+[新词] impact school
+
+### cet6_2025_06_1 Q48 答案=B src=13/25 pct=54.2 cov=0.43
+[来源句] We believe unexcused absence is a strong signal of the many challenges children and families face, including economic and medical hardships.
+[正确选项] They point directly to many of the out-of-school challenges confronting children and their families
+[旧词] challenges children families
+[新词] confronting directly out-of-school point
+
+### cet6_2025_06_1 Q49 答案=B src=4/25 pct=16.7 cov=0.29
+[来源句] His open letter stated that missing 10% of school days in a year for any reason - excused or unexcused - is a primary cause of low academic achievement.
+[正确选项] Schools can boost children's academic performance by effective intervention
+[旧词] academic schools
+[新词] boost children's effective intervention performance
+
+### cet6_2025_06_1 Q50 答案=C src=24/25 pct=100.0 cov=0.40
+[来源句] We instead suggest using unexcused absence from school as a signal to channel resources to the children and families who need them most.
+[正确选项] Directing resources to helping needy children
+[旧词] children resources
+[新词] directing helping needy
+
+### cet6_2025_06_1 Q51 答案=D src=2/18 pct=11.8 cov=0.00
+[来源句] For almost a decade, I told everyone I encountered that they should do the same.
+[正确选项] 'Do whatever they are.zealous for
+[旧词] -
+[新词] whatever zealous
+
+### cet6_2025_06_1 Q52 答案=A src=4/18 pct=23.5 cov=0.00
+[来源句] As a sociologist, I interviewed college students and professional workers to learn what it really meant to pursue their dreams, .which I will refer to here as the passion principle.
+[正确选项] He was astonished by its consequences
+[旧词] -
+[新词] astonished consequences
+
+### cet6_2025_06_1 Q53 答案=D src=10/18 pct=58.8 cov=0.25
+[来源句] I also found that promoting the pursuit of one's passion helps perpetuate social inequalities due to the fact that not everyone has the same economic resources to allow them to pursue their passion with ease.
+[正确选项] Financial :backing and social connections
+[旧词] social
+[新词] backing connections financial
+
+### cet6_2025_06_1 Q54 答案=C src=15/18 pct=88.2 cov=0.50
+[来源句] Colleges, workplaces and career counselors who promote the " follow your passion"' path for everyone, without leveling the playing field, help perpetuiate socioeconomic inequalities among career aspirants. passionate workers do, too.
+[正确选项] Socioeconomic inequality is likely to persist
+[旧词] inequality socioeconomic
+[新词] likely persist
+
+### cet6_2025_06_1 Q55 答案=B src=15/18 pct=88.2 cov=0.40
+[来源句] Colleges, workplaces and career counselors who promote the " follow your passion"' path for everyone, without leveling the playing field, help perpetuiate socioeconomic inequalities among career aspirants. passionate workers do, too.
+[正确选项] They exploit these workers' passion to benefit themselves
+[旧词] passion workers
+[新词] benefit exploit themselves
+
+### cet6_2025_06_2 Q46 答案=C src=3/19 pct=16.7 cov=0.25
+[来源句] That is largely because successful change requires more than. a vision; it requires a workforce that not only doesn't resist change, but embraces it.
+[正确选项] They call for enthusiastic support from the workforce
+[旧词] workforce
+[新词] call enthusiastic support
+
+### cet6_2025_06_2 Q47 答案=A src=4/19 pct=22.2 cov=0.33
+[来源句] To achieve success, 'an organization must build a transformation program that will allow change to be rapidly pulled across its departments and throughout its layers.
+[正确选项] Allow them to see what could possibly be achieved． (
+[旧词] allow
+[新词] achieved possibly
+
+### cet6_2025_06_2 Q48 答案=A src=17/19 pct=94.4 cov=0.17
+[来源句] At the end of the successful simulation, participants must declare "this is us." If they don't, they will view the experience as a game, which can be difficult to apply on the job, or worse, irrelevant to everyday work tasks.
+[正确选项] They are generally incapable of changing workers' behaviors on the job
+[旧词] job
+[新词] behaviors changing generally incapable workers
+
+### cet6_2025_06_2 Q49 答案=D src=14/19 pct=77.8 cov=0.33
+[来源句] The ability to explore, experiment and repeatedly apply new knowledge in unlimited, risk-free models is what makes simulation one of the most productive forms of learning.
+[正确选项] Its potential for learners to explore, experiment and practice without any risk
+[旧词] experiment explore
+[新词] learners potential practice risk
+
+### cet6_2025_06_2 Q50 答案=B src=18/19 pct=100.0 cov=0.50
+[来源句] To maximize benefits from simulation, participants should immediately apply the learning from the experience to forge a smooth link between learning and doing.
+[正确选项] Apply promptly what they learn to their jobs
+[旧词] apply learn
+[新词] jobs promptly
+
+### cet6_2025_06_2 Q51 答案=A src=1/23 pct=4.5 cov=1.00
+[来源句] Unlimited growth is not sustainable and 'economic thinking is moving toward the idea. that we should aim for 'sustainability in our economic models. --But while a sustainable economy is vital to 'our future, it is a means to' an end, not an end in itself.
+[正确选项] It should be made sustainable
+[旧词] sustainable
+[新词] -
+
+### cet6_2025_06_2 Q52 答案=C src=5/23 pct=22.7 cov=0.67
+[来源句] Don't different people experience different levels of happiness?
+[正确选项] Happiness means different things to different people
+[旧词] different happiness
+[新词] means
+
+### cet6_2025_06_2 Q53 答案=B src=14/23 pct=63.6 cov=0.60
+[来源句] And focusing on access to the resources people need to live better lives could help reduce inequality.
+[正确选项] Provide people with access to resources for a better life
+[旧词] access better resources
+[新词] life provide
+
+### cet6_2025_06_2 Q54 答案=D src=21/23 pct=95.5 cov=0.50
+[来源句] It says a lot, however, that the WHO feels the need to appeal to the economic benefits of improving mental health to persuade governments that. the cost of taking proposed measures is justified.
+[正确选项] Governments still take economic development as their priority
+[旧词] economic governments
+[新词] development priority
+
+### cet6_2025_06_2 Q55 答案=B src=0/23 pct=0.0 cov=0.67
+[来源句] GDP growth is not a good indicator of how well a country is performing and should not be the primary goal of governments.
+[正确选项] Governments' goal should be people-oriented
+[旧词] goal governments
+[新词] people-oriented
+
+### cet6_2025_06_3 Q46 答案=A src=1/19 pct=5.6 cov=0.25
+[来源句] Partly it's to do with money, but there's a psychological aspect to our fears as well.
+[正确选项] Fear of being judged in a snobbish manner
+[旧词] fear
+[新词] judged manner snobbish
+
+### cet6_2025_06_3 Q47 答案=C src=2/19 pct=11.1 cov=0.50
+[来源句] We worry because we suspect - not wrongly - that the world is full of a frightening sort of person ready to judge us ruthlessly and swiftly: a person we can call a snob.
+[正确选项] They judge a person by their occupation
+[旧词] judge
+[新词] occupation
+
+### cet6_2025_06_3 Q48 答案=D src=6/19 pct=33.3 cov=0.25
+[来源句] This explains why the first question we will be asked in any new social context is ' What do you do? ' and according to how we answer, snobs will either welcome us with broad smiles, or leave us in the cold.
+[正确选项] It arises from their craving for social recognition
+[旧词] social
+[新词] arises craving recognition
+
+### cet6_2025_06_3 Q49 答案=A src=10/19 pct=55.6 cov=0.00
+[来源句] It has to do with a hunger for the respect and esteem that is only available in our societies through the acquisition of material goods.
+[正确选项] Those with fame and fortune
+[旧词] -
+[新词] fame fortune
+
+### cet6_2025_06_3 Q50 答案=B src=18/19 pct=100.0 cov=0.40
+[来源句] And because we are such poor judges of the worth of others, our ultimate duty remains to be kind, good, curious and imaginative about pretty much everyone who ever crosses our path.
+[正确选项] Be kind to and curious about those who we happen to meet in our lives
+[旧词] curious kind
+[新词] happen lives meet
+
+### cet6_2025_06_3 Q51 答案=B src=2/19 pct=11.1 cov=0.00
+[来源句] During that decade, the gender pay gap closed by about one percentage point a year.
+[正确选项] It was shrinking rapidly
+[旧词] -
+[新词] rapidly shrinking
+
+### cet6_2025_06_3 Q52 答案=B src=8/19 pct=44.4 cov=0.57
+[来源句] After family leave was introduced in the US, in fact, the rate of gender wage convergence fell to just 0.03 percentage points per year, and has remained there ever since.
+[正确选项] The rate of gender wage convergence started to fall noticeably
+[旧词] convergence gender rate wage
+[新词] fall noticeably started
+
+### cet6_2025_06_3 Q53 答案=C src=14/19 pct=77.8 cov=0.33
+[来源句] Part of this is because women take on more of the unpaid labor at home, which can eat into time available for work and energy for career advancement.
+[正确选项] The huge amounts of time and energy women spend taking care of the family
+[旧词] energy time women
+[新词] amounts care family huge spend taking
+
+### cet6_2025_06_3 Q54 答案=D src=17/19 pct=94.4 cov=0.33
+[来源句] The study doesn't go into that question, other than to say that if the 1980s trend continued, we would have been at parity by now.
+[正确选项] It would have been attained with the continuation of the 1980s trend
+[旧词] trend
+[新词] attained continuation
+
+### cet6_2025_06_3 Q55 答案=B src=18/19 pct=100.0 cov=0.40
+[来源句] It's possible, however, that the journey towards wage parity would have stalled either way: If women's gains in the 198Os 'were made through the erasure of. things like bias, once those less uncontrollable problems had been addressed, there would still have been an issue with women -- who 6. :7 are the ones to bear children and take care of them in the early weeks because of biological factors like the ability to breastfeed, forcing them to take breaks, whether or not those breaks were mandated.
+[正确选项] Giving birth to children and taking care of them
+[旧词] care children
+[新词] birth giving taking
+
+### cet6_2025_12_1 Q46 答案=D src=1/26 pct=4.0 cov=0.33
+[来源句] However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process.
+[正确选项] They ignore their ties with friends
+[旧词] friends
+[新词] ignore ties
+
+### cet6_2025_12_1 Q47 答案=A src=6/26 pct=24.0 cov=0.00
+[来源句] Radical individualism elevates the freedom of the individual over the collective.
+[正确选项] Reexamine its detrimental effects
+[旧词] -
+[新词] detrimental effects reexamine
+
+### cet6_2025_12_1 Q48 答案=D src=9/26 pct=36.0 cov=0.00
+[来源句] Society tends to celebrate personal achievement and commend it based on the assumption that winning or succeeding is a consequence of working harder than the next person.
+[正确选项] It reflects a person's exceptional endeavor
+[旧词] -
+[新词] endeavor exceptional person's reflects
+
+### cet6_2025_12_1 Q49 答案=B src=17/26 pct=68.0 cov=0.57
+[来源句] Invest time in your work instead.
+[正确选项] Investing one's time in work instead of connecting with friends
+[旧词] instead investing time work
+[新词] connecting friends one's
+
+### cet6_2025_12_1 Q50 答案=B src=1/26 pct=4.0 cov=0.25
+[来源句] However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process.
+[正确选项] No one can afford to neglect close friends
+[旧词] friends
+[新词] afford close neglect
+
+### cet6_2025_12_1 Q51 答案=C src=2/23 pct=9.1 cov=0.25
+[来源句] And the battle for equity is at the heart of these vital conversations.
+[正确选项] It still has a long way to go before equity can be truly realized
+[旧词] equity
+[新词] long realized truly
+
+### cet6_2025_12_1 Q52 答案=A src=4/23 pct=18.2 cov=0.50
+[来源句] A 2020 report by Citi indicated that "Black students could have increased their lifetime incomes $90-$113 billion" if equity issues related to higher education had been adequately addressed over the past two decades.
+[正确选项] They have been unfairly treated regarding higher education
+[旧词] education higher
+[新词] treated unfairly
+
+### cet6_2025_12_1 Q53 答案=C src=0/23 pct=0.0 cov=0.50
+[来源句] During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr. said, "I believe that unarmed truth and unconditional love will have the final word in reality." More than five decades later, our society is still struggling to separate truth from fantasy, fact from fiction.
+[正确选项] By continuing to pursue Martin Luther King Jr.'s cause
+[旧词] king luther martin
+[新词] cause continuing pursue
+
+### cet6_2025_12_1 Q54 答案=D src=14/23 pct=63.6 cov=0.00
+[来源句] A recent survey found that 77 percent of Americans believe the nation is "more divided than ever before".
+[正确选项] It has become increasingly split
+[旧词] -
+[新词] become increasingly split
+
+### cet6_2025_12_1 Q55 答案=B src=4/23 pct=18.2 cov=0.33
+[来源句] A 2020 report by Citi indicated that "Black students could have increased their lifetime incomes $90-$113 billion" if equity issues related to higher education had been adequately addressed over the past two decades.
+[正确选项] Make joint efforts to tackle the nation's equity issues
+[旧词] equity issues
+[新词] efforts joint nation's tackle
+
+### cet6_2025_12_2 Q46 答案=A src=0/24 pct=0.0 cov=0.33
+[来源句] As interdependent beings we cannot thrive independent of others.
+[正确选项] They cannot prosper without cooperating with each other
+[旧词] cannot
+[新词] cooperating prosper
+
+### cet6_2025_12_2 Q47 答案=B src=8/24 pct=34.8 cov=0.00
+[来源句] Its simplest definition in the dictionary is: "...a unifying opinion, feeling, purpose or interest among a group of people." In this increasingly diverse society we live in, solidarity takes on a complex and multifaceted character as it forms bonds of interdependence among unique individuals living in a fast-changing environment and working within a complex division of labour.
+[正确选项] It involves many aspects with great complexity
+[旧词] -
+[新词] aspects complexity great involves
+
+### cet6_2025_12_2 Q48 答案=C src=10/24 pct=43.5 cov=0.60
+[来源句] In this setting, individuals give up their own interests to serve the common good.
+[正确选项] Sacrifice of personal interests for the common good
+[旧词] common good interests
+[新词] personal sacrifice
+
+### cet6_2025_12_2 Q49 答案=B src=13/24 pct=56.5 cov=0.50
+[来源句] Solidarity is also viewed as a reaction to the extreme emphasis on individualism and freedom of choice.
+[正确选项] An opposition to individualism
+[旧词] individualism
+[新词] opposition
+
+### cet6_2025_12_2 Q50 答案=C src=15/24 pct=65.2 cov=0.75
+[来源句] But despite its many facets, social theorists have viewed solidarity as a key factor in bringing about order and progress in society.
+[正确选项] It is essential to progress and order in society
+[旧词] order progress society
+[新词] essential
+
+### cet6_2025_12_2 Q51 答案=D src=2/19 pct=11.1 cov=0.33
+[来源句] One study found that people with a high tendency to seek power were more likely to give advice than those with an opposite tendency.
+[正确选项] They are inclined to crave for power
+[旧词] power
+[新词] crave inclined
+
+### cet6_2025_12_2 Q52 答案=B src=3/19 pct=16.7 cov=0.00
+[来源句] Under the guise of unselfishness, people may be driven to give you unwanted advice because it makes them feel powerful or in control.
+[正确选项] They may be emotionally vulnerable
+[旧词] -
+[新词] emotionally vulnerable
+
+### cet6_2025_12_2 Q53 答案=D src=8/19 pct=44.4 cov=0.33
+[来源句] It can be tempting in this situation to react harshly to the advice giver and to accuse them of being manipulative, but this approach might produce an undesirable result.
+[正确选项] Accuse them of trying to control others
+[旧词] accuse
+[新词] control trying
+
+### cet6_2025_12_2 Q54 答案=A src=9/19 pct=50.0 cov=0.50
+[来源句] If the act of giving advice is contributing actively to someone's feelings of selfworth, an outright rejection may be perceived as a threat, activating their fight-orflight response, possibly causing them to double down on their validation-seeking behavior, or leading to a larger conflict.
+[正确选项] They may regard it as a threat
+[旧词] threat
+[新词] regard
+
+### cet6_2025_12_2 Q55 答案=C src=8/19 pct=44.4 cov=0.50
+[来源句] It can be tempting in this situation to react harshly to the advice giver and to accuse them of being manipulative, but this approach might produce an undesirable result.
+[正确选项] Understand why the advice giver offers the advice
+[旧词] advice giver
+[新词] offers understand
+
+### cet6_2025_12_3 Q46 答案=B src=17/19 pct=94.4 cov=0.50
+[来源句] It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you.
+[正确选项] It focuses our attention on the present moment without making judgments
+[旧词] attention judgments present
+[新词] focuses making moment
+
+### cet6_2025_12_3 Q47 答案=B src=6/19 pct=33.3 cov=0.20
+[来源句] The artist Jenny Odell argues that in our "attention economy" human attention has been transformed into a commodity that big corporations buy and sell.
+[正确选项] People's attention is turned into something that can be bought and sold
+[旧词] attention
+[新词] bought people's sold turned
+
+### cet6_2025_12_3 Q48 答案=A src=18/19 pct=100.0 cov=0.25
+[来源句] If we judge the value of gifts based on their price, this gift may seem worthless, but in a distracted world, it is a precious one.
+[正确选项] They keep distracting users from the here and now
+[旧词] distracting
+[新词] keep now users
+
+### cet6_2025_12_3 Q49 答案=C src=12/19 pct=66.7 cov=0.20
+[来源句] It can help us build stronger, healthier relationships.
+[正确选项] It is conducive to our forging better interpersonal relationships
+[旧词] relationships
+[新词] better conducive forging interpersonal
+
+### cet6_2025_12_3 Q50 答案=C src=17/19 pct=94.4 cov=0.20
+[来源句] It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you.
+[正确选项] Be attentive listeners while refraining from making judgments
+[旧词] judgments
+[新词] attentive listeners making refraining
+
+### cet6_2025_12_3 Q51 答案=D src=1/26 pct=4.0 cov=0.00
+[来源句] Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine.
+[正确选项] He worked on it submissively
+[旧词] -
+[新词] submissively worked
+
+### cet6_2025_12_3 Q52 答案=C src=10/26 pct=40.0 cov=0.60
+[来源句] The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn't tell whether it was a human or a robot.
+[正确选项] A test designed to test machines is now used by machines to test humans
+[旧词] humans machines test
+[新词] designed now
+
+### cet6_2025_12_3 Q53 答案=B src=15/26 pct=60.0 cov=0.25
+[来源句] Have we been conditioned to accept a world governed by "smart" tech, trading convenience to the point where we become a bit like machines ourselves?
+[正确选项] To show that humans are unaware of the potential danger brought by smart tech
+[旧词] smart tech
+[新词] brought danger humans potential show unaware
+
+### cet6_2025_12_3 Q54 答案=A src=21/26 pct=84.0 cov=0.56
+[来源句] But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours.
+[正确选项] A large part of digital tech is now making use of humans to meet its own ends
+[旧词] digital ends humans now tech
+[新词] large making meet part
+
+### cet6_2025_12_3 Q55 答案=D src=21/26 pct=84.0 cov=0.33
+[来源句] But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours.
+[正确选项] We may not awake in time to the danger digital tech poses to us
+[旧词] digital tech
+[新词] awake danger poses time
+
+### cet6_2026_06_1 Q46 答案=A src=2/21 pct=10.0 cov=0.25
+[来源句] While younger children should not be on platforms where 13 is the minimum age, it is neither practical nor desirable to imagine a world in which teenagers are prevented from accessing the platforms and messaging systems that the adults around them use to organise their lives.
+[正确选项] To stop children using it is unrealistic and inadvisable
+[旧词] children
+[新词] inadvisable stop unrealistic
+
+### cet6_2026_06_1 Q47 答案=B src=4/21 pct=20.0 cov=0.57
+[来源句] The finding that the alarmingly high rate of depression in British teenage girls is closely correlated to time spent on social media is extremely concerning.
+[正确选项] The more time they spend on social media, the more likely they suffer from depression
+[旧词] depression media social time
+[新词] likely spend suffer
+
+### cet6_2026_06_1 Q48 答案=C src=8/21 pct=40.0 cov=0.50
+[来源句] Although the research does not prove that social media causes depression, the importance of the finding that there is a connection should not be underestimated.
+[正确选项] Its importance should not be undervalued
+[旧词] importance
+[新词] undervalued
+
+### cet6_2026_06_1 Q49 答案=D src=12/21 pct=60.0 cov=0.25
+[来源句] This idea has the virtue of simplicity, though some experts question its effects and call for a greater degree of differentiation, arguing that time online by itself is not a bad thing and it all depends on what you are doing.
+[正确选项] It is too simplistic to produce the desired effect
+[旧词] effect
+[新词] desired produce simplistic
+
+### cet6_2026_06_1 Q50 答案=A src=18/21 pct=90.0 cov=0.60
+[来源句] Of course, social media companies are not the source of all our ills, and can offer a too-easy target for politicians keen to divert attention from inadequately resourced schools and health services.
+[正确选项] Poorly financed schools and health services
+[旧词] health schools services
+[新词] financed poorly
+
+### cet6_2026_06_1 Q51 答案=C src=0/20 pct=0.0 cov=0.00
+[来源句] About a decade ago, the G-20, a forum of the world's biggest economies, agreed to crack down on multinational corporations' abusive use of tax havens.
+[正确选项] It has failed to achieve the expected outcome
+[旧词] -
+[新词] achieve expected failed outcome
+
+### cet6_2026_06_1 Q52 答案=B src=7/20 pct=36.8 cov=0.50
+[来源句] The main reasons for the large increase were the growth of the tax avoidance industry in the 1980s and U.S. policies that made it easier to shift profits from high-tax countries to tax havens.
+[正确选项] Lenient policies of the U.S
+[旧词] policies
+[新词] lenient
+
+### cet6_2026_06_1 Q53 答案=A src=19/20 pct=100.0 cov=0.50
+[来源句] Our research suggests implementing this type of tax reform is necessary in reversing the shift of ever-greater amounts of corporate profits to tax havens instead of being taxed by the governments where they operate and create value.
+[正确选项] Reducing corporate taxes step by step
+[旧词] corporate taxes
+[新词] reducing step
+
+### cet6_2026_06_1 Q54 答案=D src=16/20 pct=84.2 cov=0.83
+[来源句] If countries could agree on a global minimum corporate tax rate of, say, 20%, the problem of profit-shifting would largely disappear, as tax havens would simply cease to exist.
+[正确选项] The imposition of a global minimum corporate tax rate
+[旧词] corporate global minimum rate tax
+[新词] imposition
+
+### cet6_2026_06_1 Q55 答案=D src=16/20 pct=84.2 cov=0.00
+[来源句] If countries could agree on a global minimum corporate tax rate of, say, 20%, the problem of profit-shifting would largely disappear, as tax havens would simply cease to exist.
+[正确选项] It would continue because of noncooperation from the U.S
+[旧词] -
+[新词] continue noncooperation
+
+### cet6_2026_06_2 Q46 答案=C src=6/22 pct=28.6 cov=0.50
+[来源句] Your answer matters, as it determines how much self-discipline you experience.
+[正确选项] Their conception of self-discipline
+[旧词] self-discipline
+[新词] conception
+
+### cet6_2026_06_2 Q47 答案=A src=17/22 pct=81.0 cov=1.00
+[来源句] If not, remind yourself that not everyone experiences self-discipline as a depletable resource and that your experience might be different if you focus on gathering more energy at this point rather than focusing on how difficult it is to continue or the need for a break.
+[正确选项] It is a depletable resource
+[旧词] depletable resource
+[新词] -
+
+### cet6_2026_06_2 Q48 答案=B src=11/22 pct=52.4 cov=0.57
+[来源句] If you don't already view self-discipline as a force that feeds itself, what might you do?
+[正确选项] To show the feasibility of viewing self-discipline as a force fueling itself
+[旧词] force itself self-discipline viewing
+[新词] feasibility fueling show
+
+### cet6_2026_06_2 Q49 答案=C src=0/22 pct=0.0 cov=0.33
+[来源句] What does self-discipline look like at work?
+[正确选项] Exert ourselves to go on with the work
+[旧词] work
+[新词] exert ourselves
+
+### cet6_2026_06_2 Q50 答案=D src=10/22 pct=47.6 cov=1.00
+[来源句] If you believe that exercising your self-control strengthens and fuels it, that is more likely to be your experience as you resist temptation or push yourself to get something done that is not appealing.
+[正确选项] The more it is exercised, the more strengthened it gets
+[旧词] exercised strengthened
+[新词] -
+
+### cet6_2026_06_2 Q51 答案=C src=2/22 pct=9.5 cov=0.29
+[来源句] A new study shows that about half of parents of teens are worried about their teens being exposed to explicit content online.
+[正确选项] They feel concerned about their kids' viewing indecent content online
+[旧词] content online
+[新词] concerned feel indecent kids viewing
+
+### cet6_2026_06_2 Q52 答案=B src=9/22 pct=42.9 cov=0.00
+[来源句] Ample research shows too much smartphone use produces significant anxiety, depression, and feelings of isolation in teens.
+[正确选项] It renders them more lonely and low-spirited
+[旧词] -
+[新词] lonely low-spirited renders
+
+### cet6_2026_06_2 Q53 答案=D src=14/22 pct=66.7 cov=0.00
+[来源句] The convenience of communication when they need a ride home from school after practice, for instance often feels like it isn't worth the battle to keep their screen time low and productive, and continue to encourage "real-life" activities outside and with friends and family.
+[正确选项] They are mixed
+[旧词] -
+[新词] mixed
+
+### cet6_2026_06_2 Q54 答案=B src=18/22 pct=85.7 cov=0.60
+[来源句] "I do definitely feel that the world of social media is frightening to parents because we don't really know what's there," she said.
+[正确选项] It scares parents because they don't really know what is on the screen
+[旧词] don't parents really
+[新词] scares screen
+
+### cet6_2026_06_2 Q55 答案=A src=0/22 pct=0.0 cov=0.29
+[来源句] Smartphones have always posed challenges for parents of teens.
+[正确选项] Parents have to be concerned about dangers to their teens in both real and virtual worlds
+[旧词] parents teens
+[新词] concerned dangers real virtual worlds
+
+### cet6_2026_06_3 Q46 答案=B src=0/12 pct=0.0 cov=0.33
+[来源句] Three artists have brought a lawsuit against Stability AI, DeviantArt, and Midjourney, alleging that the text-to-image AI tools have infringed the rights of thousands of artists.
+[正确选项] They claim these companies infringed their intellectual property rights
+[旧词] infringed rights
+[新词] claim companies intellectual property
+
+### cet6_2026_06_3 Q47 答案=C src=2/12 pct=18.2 cov=0.25
+[来源句] "If Stable Diffusion and similar products are allowed to continue to operate as they do now, the foreseeable result is they will replace the very artists whose stolen works power these AI products with whom they are competing," the law firm wrote in a press release.
+[正确选项] Artists will lose their means of subsistence
+[旧词] artists
+[新词] lose means subsistence
+
+### cet6_2026_06_3 Q48 答案=D src=6/12 pct=54.5 cov=0.38
+[来源句] Not only are many artists furious at the possible copyright violations of AI art, but they have also been frustrated by how AI tools are able to sidestep the labor and art processes they are required to go through.
+[正确选项] AI tools can bypass the considerable labor involved in creating art works
+[旧词] art labor tools
+[新词] bypass considerable creating involved works
+
+### cet6_2026_06_3 Q49 答案=C src=10/12 pct=90.9 cov=0.50
+[来源句] Fair use, a legal doctrine that allows for a limited usage of copyrighted materials without permission by the original creators for purposes such as teaching and news sharing, is what a lot of generative model creators claim that their training data is covered by.
+[正确选项] They support AI's limited use of copyrighted images without permission
+[旧词] copyrighted limited permission
+[新词] ai's images support
+
+### cet6_2026_06_3 Q50 答案=B src=11/12 pct=100.0 cov=0.50
+[来源句] However, since fair use applies differently to each case, it's hard to make a blanket statement about all works in a dataset as being applicable.
+[正确选项] It may not apply to the present legal case
+[旧词] apply case
+[新词] legal present
+
+### cet6_2026_06_3 Q51 答案=A src=5/26 pct=20.0 cov=0.25
+[来源句] The current system keeps a lid on the economic talents of people like Agok and his students.
+[正确选项] It curbs the economic development of the continent
+[旧词] economic
+[新词] continent curbs development
+
+### cet6_2026_06_3 Q52 答案=A src=8/26 pct=32.0 cov=0.29
+[来源句] Historically, national governments on the continent have led electrification efforts, but fewer than half of the people surveyed say that the national grid is providing a reliable supply of electricity.
+[正确选项] They have failed to meet most Africans' need of a reliable power supply
+[旧词] reliable supply
+[新词] africans failed meet need power
+
+### cet6_2026_06_3 Q53 答案=D src=1/26 pct=4.0 cov=0.29
+[来源句] The classes he had planned teaching computer skills to aspiring young professionals were canceled, due to an unreliable diesel generator and the absence of a municipal power grid in his area.
+[正确选项] Putting in place a large-scale modern power grid speedily
+[旧词] grid power
+[新词] large-scale modern place putting speedily
+
+### cet6_2026_06_3 Q54 答案=D src=14/26 pct=56.0 cov=0.67
+[来源句] Private companies today are building world-class infrastructure and driving forward economic growth with sustainable business models.
+[正确选项] Cooperating with private companies
+[旧词] companies private
+[新词] cooperating
+
+### cet6_2026_06_3 Q55 答案=A src=24/26 pct=96.0 cov=0.50
+[来源句] His classes are no longer affected by the smell and the constant noise of the diesel generator, and he saves money with more affordable power.
+[正确选项] There is big money to be made
+[旧词] money
+[新词] big
