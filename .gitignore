@@ -13,3 +13,6 @@ lazy_*.html
 # OS
 .DS_Store
 Thumbs.db
+
+# WorkBuddy workspace memory
+.workbuddy/
